@@ -1,3 +1,3 @@
 # Gateway API
-Zuul Gatewat for MicroServices
+Zuul Gateway for MicroServices
 to be added to
