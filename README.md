@@ -1,3 +1,3 @@
-# DiscoveryServer
-Eureka Discovery Server For MicroServices
+# Gateway API
+Zuul Gatewat for MicroServices
 to be added to
